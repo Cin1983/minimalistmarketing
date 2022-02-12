@@ -74,30 +74,33 @@
         }
         
         .sidebox-input {
-            width: 80%;
-            margin-left: 18%;
+            width: 100%;
+            margin-right: -5%;
+            margin-top: 2.5%;
+        }
+        
+        .firstName input {
+            display: flex;
+            margin: 0px 95px;
+            width: 250px;
+            height: 35px;
+            margin-bottom: 3%;
         }
         
         .e-mail input {
             display: flex;
             margin-top: 5%;
+            margin: 0px 100px;
             width: 250px;
             height: 35px;
-            margin-bottom: 5%;
-        }
-        
-        .firstName input {
-            display: flex;
-            margin: 0px 80px;
-            width: 250px;
-            height: 35px;
+            margin-bottom: 10%;
         }
         
         #back-links {
             padding-bottom: 10px;
             padding-top: 10px;
             border: 2px solid rgb(255, 255, 255);
-            width: 95%;
+            width: 90%;
         }
         
         .text-image-block2 {
