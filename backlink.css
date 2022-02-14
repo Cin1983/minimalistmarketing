@@ -2,7 +2,12 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
-    margin: 0;
+    margin: 0.5%;
+}
+
+img.image-minimalist {
+    margin: auto;
+    align-items: center;
 }
 
 .color-block {
