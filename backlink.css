@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-style: normal;
     margin: 0;
 }
@@ -111,6 +111,12 @@ figcaption {
     margin-bottom: 2.5%;
 }
 
+@media (min-width: 1880px) {
+    .sidebox-input {
+        width: unset;
+    }
+}
+
 .firstName input {
     display: flex;
     margin: 0px 123px;
@@ -145,7 +151,7 @@ button {
 }
 
 p {
-    width: 80%
+    width: 80%;
 }
 
 figcaption {
