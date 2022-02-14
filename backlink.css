@@ -2,12 +2,13 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
-    margin: 0.5%;
+    margin: 0;
 }
 
 img.image-minimalist {
     margin: auto;
     align-items: center;
+    margin-top: 1%;
 }
 
 .color-block {
@@ -37,12 +38,6 @@ h4 {
     margin-bottom: -1%;
 }
 
-
-/* .image-block1 {
-display: flex;
-justify-content: flex-end;
-} */
-
 .second-block {
     padding-top: 3%;
     width: 100%;
@@ -51,14 +46,6 @@ justify-content: flex-end;
     flex-wrap: wrap;
     color: #3b3c3b;
     text-align: left;
-}
-
-
-/* check deze */
-
-.image-block2 {
-    display: flex;
-    justify-content: flex-end;
 }
 
 .second-block h2,
@@ -145,10 +132,6 @@ figcaption {
     margin-bottom: 10%;
 }
 
-
-/* 
-.image-blok3 {} */
-
 .download {
     margin-top: 3%;
 }
@@ -178,10 +161,3 @@ b {
 ul {
     margin-left: 0;
 }
-
-
-/* .side-image {
-    display: flex;
-    justify-content: flex-end;
-    margin: 0px 128.1px;
-} */
