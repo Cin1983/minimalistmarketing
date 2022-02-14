@@ -82,10 +82,8 @@ figcaption {
 }
 
 .third-block {
-    padding-top: 3%;
     width: 100%;
     height: 80%;
-    margin-top: 1%;
     flex-wrap: wrap;
     color: #3b3c3b;
     text-align: left;
@@ -118,7 +116,7 @@ figcaption {
 .sidebox-input {
     width: 80%;
     margin-right: 0.5%;
-    margin-top: 2.5%;
+    margin-bottom: 2.5%;
 }
 
 .firstName input {
@@ -142,7 +140,9 @@ figcaption {
     margin-bottom: 10%;
 }
 
-.image-blok3 {}
+
+/* 
+.image-blok3 {} */
 
 .download {
     margin-top: 3%;

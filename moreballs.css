@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+}
+
+.color-block {
+    background-color: #f5f5f5;
+}
+
+.text-box {
+    margin: auto;
+    width: 50%;
+}
+
+.text-box h1 {
+    margin: auto;
+}
+
+.outdoor-events li>a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    background-color: hotpink;
+}
